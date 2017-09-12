@@ -1,5 +1,7 @@
 /*
  * A button.
+ * 
+ * @author Martin Hentschel, @hemasail
  */
  
 function Button(game, text) {

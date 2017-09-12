@@ -1,8 +1,10 @@
 /*
- * Main entry point for game.
+ * Main entry point to the game. Initializes the game and shows
+ * the initial splash screen.
  * 
- * Underlying phyics library: 
- * https://github.com/hemartin/physicsplain
+ * Contains main loop that uses JavaScript's requestAnimationFrame
+ * method. Also contains all draw* methods that paint buttons and game
+ * entities to the screen.
  * 
  * @author Martin Hentschel, @hemasail
  */

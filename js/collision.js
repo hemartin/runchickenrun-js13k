@@ -18,6 +18,9 @@
  * Collision.apply() resolves all collisions by applying appropriate impulses
  * to all connected entities.
  * 
+ * From physicsplain, a 2D JavaScript physics libary:
+ * https://github.com/hemartin/physicsplain
+ *
  * @author Martin Hentschel, @hemasail
  */
 

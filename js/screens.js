@@ -1,4 +1,15 @@
-function SplashScreen(game) {
+/*
+ * Screens are separate state's in the game's state machine.
+ * 
+ * When the game first loads, a splash screen is shown. From there,
+ * the play goes to the "get ready" screen and then on the to the
+ * game screen where the actual game play happens. Finally, there is
+ * a "end of round" screen.
+ * 
+ * @author Martin Hentschel, @hemasail
+ */
+
+ function SplashScreen(game) {
     this.game = game;
     this.startButton = new Button(this.game, "Start");
     this.startButton.origin.y = -0.07;

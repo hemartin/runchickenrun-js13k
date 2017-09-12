@@ -1,6 +1,9 @@
 /*
  * Vector.
  * 
+ * From physicsplain, a 2D JavaScript physics libary:
+ * https://github.com/hemartin/physicsplain
+ * 
  * @author Martin Hentschel, @hemasail
  */
 function Vector(x, y) {

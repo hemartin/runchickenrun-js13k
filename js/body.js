@@ -1,8 +1,8 @@
 /*
  * Rigid body.
  * 
- * Heavily inspired by Erin Catto's GDC slides and his Box2D library. Also
- * inspired by the demos of myphysicslab.com.
+ * From physicsplain, a 2D JavaScript physics libary:
+ * https://github.com/hemartin/physicsplain
  * 
  * @author Martin Hentschel, @hemasail
  */

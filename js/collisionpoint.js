@@ -1,6 +1,9 @@
 /*
  * A collision point models exactly one point of collision between two entities.
  * 
+ * From physicsplain, a 2D JavaScript physics libary:
+ * https://github.com/hemartin/physicsplain
+ * 
  * @author Martin Hentschel, @hemasail
  */
 function CollisionPoint(collidingEntity, impactedEntity,

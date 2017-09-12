@@ -2,10 +2,6 @@
  * The state contains all entities and advances them, including resolving
  * collisions.
  * 
- * The state also contains constants specific to bodies and collisions. This is
- * why we pass the state on to bodies and collisions, so that they can access
- * these constants.
- * 
  * @author Martin Hentschel, @hemasail
  */
 
