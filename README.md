@@ -2,7 +2,10 @@
 
 Run Chicken Run is a JavaScript game that runs in the browser. You can play it [here](https://hemartin.github.io/runchickenrun-js13k/).
 
-This game is an entry to the [2017 Js13kGames competition](http://2017.js13kgames.com/). For this, the game must be zipped into a zip file that is 13 kilobytes or less. The size of the zip file of this game is currently 9.7kB, including the favicon gif image.
+## Game Description
+A chicken is lost in the woods. The fox is after it. Try to run from the fox as long as you can. Pick up yellow grains on the way. The more grains you pick up each round, the higher your multiplier gets.
+
+This game is an entry to the [2017 Js13kGames competition](http://2017.js13kgames.com/). For this, the game must be zipped into a zip file that is 13 kilobytes or less. The size of the zip file is currently 9.7kB, including the favicon gif image.
 
 The underlying physics engine is [physicsplain](https://github.com/hemartin/physicsplain), a simple 2D physics library written in JavaScript.
 
